@@ -26,8 +26,8 @@ void onClick(Desk::Window* window) {
 
 int main() {
     Desk::Window window = Desk::Window(640, 480, "Hello World", true);
-    Desk::Button widget = Desk::Button("wid", {0, -0.5, 0}, {1, 1}, onClick, "img/wheatley.png");
-    Desk::Widget widget2 = Desk::Widget("wid2", { -1, -0.5, 0 }, {1, 1}, "img/wheatley.png");
+    Desk::Button widget = Desk::Button("wid", {0, -0.5, 0}, {1, 1}, onClick, "DeskUI/img/wheatley.png");
+    Desk::Widget widget2 = Desk::Widget("wid2", { -1, -0.5, 0 }, {1, 1}, "DeskUI/img/wheatley.png");
 
     window += &widget;
     widget += &widget2;
