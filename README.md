@@ -1,7 +1,8 @@
 # DeskUI
-&emsp;This is my first try of making an UI framework, because I was rebellious and don't wanted to use GTK... well I failed, but I learned a valuable lesson out of this, don't use OpenGL for normal software. This is a library to render squares with textures, and add some sort of primitive interactivity. If you want to continue this project by yourself... I wish you good luck.
 
-&emsp;Well this is meant 
+> &emsp;Well this is meant for people who want to develop their own UI frameworks in OpenGL, well at least for the beginners, this includes a lot of simple things that take a lot of work.
+
+&emsp;This is my first try of making an UI framework, because I was rebellious and don't wanted to use GTK... well I failed, but I learned a valuable lesson out of this, don't use OpenGL for normal software. This is a library to render squares with textures, and add some sort of primitive interactivity. If you want to continue this project by yourself... I wish you good luck.
 
 # OPENING
 1. Clone or download the repository
